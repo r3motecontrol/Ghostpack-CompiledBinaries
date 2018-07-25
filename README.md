@@ -1,1 +1,1 @@
-# Ghostpack---Compiled-Binaries
+# Ghostpack-Compiled Binaries
